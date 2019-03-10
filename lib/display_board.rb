@@ -1,4 +1,6 @@
 def display_board
+  #here we are defining the funcition
+  
 puts "   |   |   "  
 puts "-----------"
 puts "   |   |   "
@@ -6,7 +8,7 @@ puts "-----------"
 puts "   |   |   "
  end
 
- 
+#this is calling the function to be returned 
  display_board
 
 
